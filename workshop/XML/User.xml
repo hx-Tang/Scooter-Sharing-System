@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root> 
+  <User id="161194912"> 
+    <name>thx</name>  
+    <email>h.tang@qmul.ac.uk</email>  
+    <status>-1</status> 
+  </User>  
+  <User id="161194913"> 
+    <name>xxx</name>  
+    <email>xxx@qmul.ac.uk</email>  
+    <status>0</status> 
+  </User>  
+  <User id="161194911"> 
+    <name>yyy</name>  
+    <email>yyy@yyy.com</email>  
+    <status>0</status> 
+  </User>  
+  <User id="161194914"> 
+    <name>zzz</name>  
+    <email>zzz@qmul.ac.uk</email>  
+    <status>0</status> 
+  </User>  
+  <User id="161197083"> 
+    <name>yhk</name>  
+    <email>123@163.com</email>  
+    <status>0</status> 
+  </User>  
+  <User id="161196190"> 
+    <name>yjx</name>  
+    <email>161196190@qmul.ac.uk</email>  
+    <status>0</status> 
+  </User>  
+  <User id="161194915"> 
+    <name>nnn</name>  
+    <email>nnn@qmul.ac.uk</email>  
+    <status>0</status> 
+  </User> 
+</root>

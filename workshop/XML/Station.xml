@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root> 
+  <Station id="1"> 
+    <slot id="1"> 
+      <station>1</station>  
+      <status>2</status> 
+    </slot>  
+    <slot id="2"> 
+      <station>1</station>  
+      <status>12</status> 
+    </slot>  
+    <slot id="3"> 
+      <station>1</station>  
+      <status>10</status> 
+    </slot>  
+    <slot id="4"> 
+      <station>1</station>  
+      <status>5</status> 
+    </slot>  
+    <slot id="5"> 
+      <station>1</station>  
+      <status>14</status> 
+    </slot>  
+    <slot id="6"> 
+      <station>1</station>  
+      <status>15</status> 
+    </slot>  
+    <slot id="7"> 
+      <station>1</station>  
+      <status>4</status> 
+    </slot>  
+    <slot id="8"> 
+      <station>1</station>  
+      <status>0</status> 
+    </slot> 
+  </Station>  
+  <Station id="2"> 
+    <slot id="9"> 
+      <station>2</station>  
+      <status>6</status> 
+    </slot>  
+    <slot id="10"> 
+      <station>2</station>  
+      <status>3</status> 
+    </slot>  
+    <slot id="11"> 
+      <station>2</station>  
+      <status>11</status> 
+    </slot>  
+    <slot id="12"> 
+      <station>2</station>  
+      <status>1</status> 
+    </slot>  
+    <slot id="13"> 
+      <station>2</station>  
+      <status>7</status> 
+    </slot>  
+    <slot id="14"> 
+      <station>2</station>  
+      <status>8</status> 
+    </slot>  
+    <slot id="15"> 
+      <station>2</station>  
+      <status>9</status> 
+    </slot>  
+    <slot id="16"> 
+      <station>2</station>  
+      <status>13</status> 
+    </slot> 
+  </Station>  
+  <Station id="3"> 
+    <slot id="17"> 
+      <station>3</station>  
+      <status>0</status> 
+    </slot>  
+    <slot id="18"> 
+      <station>3</station>  
+      <status>0</status> 
+    </slot>  
+    <slot id="19"> 
+      <station>3</station>  
+      <status>0</status> 
+    </slot>  
+    <slot id="20"> 
+      <station>3</station>  
+      <status>0</status> 
+    </slot>  
+    <slot id="21"> 
+      <station>3</station>  
+      <status>0</status> 
+    </slot>  
+    <slot id="22"> 
+      <station>3</station>  
+      <status>0</status> 
+    </slot>  
+    <slot id="23"> 
+      <station>3</station>  
+      <status>0</status> 
+    </slot>  
+    <slot id="24"> 
+      <station>3</station>  
+      <status>0</status> 
+    </slot> 
+  </Station> 
+</root>
